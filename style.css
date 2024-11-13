@@ -306,7 +306,7 @@ main {
 
 footer {
     display: flex;
-    padding: 5rem 18%;
+    padding: 5rem 18% 1rem 18%;
     border-top: var(--border);
 
     .about {
